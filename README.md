@@ -1,5 +1,5 @@
 ## Hi there 👋
-#I'm Methuku Vinoothna Anand 👋
+I'm Methuku Vinoothna Anand 👋
 
 🎓 Final-year Computer Science undergraduate at **Chaitanya Bharathi Institute of Technology (CBIT)**
 
