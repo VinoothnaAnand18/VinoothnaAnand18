@@ -61,7 +61,7 @@ I'm Methuku Vinoothna Anand 👋
 
 ## 💻 Coding Profiles
 
-* Solved **315+ problems** on LeetCode
+* Solved **320+ problems** on LeetCode
 * Strong foundation in **Data Structures and Algorithms**
 * Passionate about solving challenging algorithmic problems
 
