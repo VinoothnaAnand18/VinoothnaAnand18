@@ -5,9 +5,9 @@ I'm Methuku Vinoothna Anand 👋
 
 💡 Passionate about **Software Engineering, Artificial Intelligence, and Full-Stack Development**
 
-🚀 Experienced in building **AI-driven applications** and **scalable web solutions** using Python, Flask, and the MERN stack
+🚀 Experienced in building **AI-powered applications, RAG systems, and full-stack web solutions** using Python, Flask, and the MERN stack
 
-🌱 Currently exploring **Deep Learning, Generative AI, and Agentic AI Systems**
+🌱 Currently exploring **Generative AI, RAG, Deep Learning, and Agentic AI Systems**
 
 ---
 
@@ -27,7 +27,7 @@ I'm Methuku Vinoothna Anand 👋
 
 ### AI/ML
 
-`Machine Learning` `Computer Vision` `Scikit-learn` `MediaPipe` `Data Analysis`
+`Machine Learning` `Computer Vision` `Scikit-learn` `MediaPipe` `LangChain` `RAG` `Generative AI`
 
 ### Core CS
 
@@ -40,6 +40,14 @@ I'm Methuku Vinoothna Anand 👋
 ---
 
 ## 🚀 Featured Projects
+
+### 🔹 CurateNest – AI-Powered Smart Reading & Book Management Platform
+
+* Developed a full-stack digital reading platform combining **personal library management, reading progress tracking, analytics, AI assistance, and personalized recommendations**.
+* Implemented an **AI-powered book assistant and RAG-based PDF chat system** using **Google Gemini, LangChain, embeddings, semantic retrieval, and PDF processing**.
+* Built using **React, Node.js, Express.js, MongoDB, JWT authentication, and Gemini API** with a responsive and modern UI.
+
+🔗 [View Project](https://github.com/VinoothnaAnand18/CurateNest)
 
 ### 🔹 Naari Raksha – AI-Powered Women Safety System
 
@@ -78,23 +86,9 @@ I'm Methuku Vinoothna Anand 👋
 
 📧 **Email:** [mva2k5@gmail.com](mailto:mva2k5@gmail.com)
 
-💼 **LinkedIn:** [www.linkedin.com/in/methukuvinoothnaanand07](http://www.linkedin.com/in/methukuvinoothnaanand07)
+💼 **LinkedIn:** [www.linkedin.com/in/methukuvinoothnaanand07](https://www.linkedin.com/in/methukuvinoothnaanand07)
 
-💻 **GitHub:** github.com/VinoothnaAnand18
+💻 **GitHub:** [VinoothnaAnand18](https://github.com/VinoothnaAnand18)
 
 ⭐ *Always open to collaborating on impactful software and AI projects.*
 
-<!--
-**VinoothnaAnand18/VinoothnaAnand18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
